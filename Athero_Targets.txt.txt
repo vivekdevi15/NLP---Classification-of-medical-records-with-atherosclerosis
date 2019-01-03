@@ -1,0 +1,6 @@
+Lex	Type	Regex	Direction	Unnamed: 4	Unnamed: 5	Unnamed: 6	Codes
+athero	EVIDENCE_OF_ATHEROSCLEROSIS	 (\batherosclerosis\b|\batheroclerotic\b)				
+vascular calc	EVIDENCE_OF_ATHEROSCLEROSIS	\svascular\scalc	 				
+arteriosclerosis	EVIDENCE_OF_ATHEROSCLEROSIS	(\barteriosclerosis\b|\barterioclerotic\b)	 				
+arterial plaque	EVIDENCE_OF_ATHEROSCLEROSIS	\sarterial\splaque	 				
+calcified plaque	EVIDENCE_OF_ATHEROSCLEROSIS	\s(\bcalcific\b|\bcalcified\b)\splaque					
